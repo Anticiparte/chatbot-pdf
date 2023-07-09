@@ -85,7 +85,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None
 
-    st.header("Chatea con un nuestro experto :books:")
+    st.header("Chatea con nuestro experto :books:")
 
     user_question = st.text_input(
         "Haz una pregunta acerca de nuestra base de conocimiento en los documentos")
@@ -110,7 +110,6 @@ def main():
                 st.write(raw_text)
 
                 # get the text chunks
-
                 text_chunks = get_text_chunks(raw_text)
                 st.write(text_chunks)
 
