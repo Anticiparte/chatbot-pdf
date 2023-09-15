@@ -11,10 +11,9 @@
 <<<<<<< HEAD
 - Use predetermined files via: 
 	```streamlit run app_fixed.py```
-=======
 - Use predetermined files via: \
   ```streamlit run app_fixed.py```
->>>>>>> c7eaf2e35802e75f29ce4274b51c77a9b73ad783
+  
 
 # Next steps
 
