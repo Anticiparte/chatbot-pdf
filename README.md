@@ -1,9 +1,9 @@
 # Chatbot from pdf
 
-- A basic streamlit chatbot for Demo purposes
+- A basic streamlit chatbot for Demo purposes: Undegraduated students' questions from UDD
 - Based on [this tutorial](https://www.youtube.com/watch?v=dXxQ0LR-3Hg) by the great Alejandro AO
 - Demands API keys from OpenAI and HuggingFace
-- Tested with spanish language texts 
+- Tested with spanish (chilean) language texts 
 
 # Usage
 - For pdf files to be loaded by the user use:\
