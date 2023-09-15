@@ -8,7 +8,7 @@
 # Usage
 - For pdf files to be loaded by the user use:\
 	```streamlit run app.py```
-- Use predetermined files via:
+- Use predetermined files via: \
   ```streamlit run app_fixed.py```
 
 # Next steps
